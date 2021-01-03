@@ -1,7 +1,7 @@
 ## Hi there 👋 I am [Gabriel Monteiro](https://gabriellm1.github.io/portfolio/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-gabriellmonteiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriellmonteiro/)](https://www.linkedin.com/in/gabriellmonteiro/)
-[![Gmail Badge](https://img.shields.io/badge/-gabriellopesmonteiro41@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=gabriellopesmonteiro41@gmail.com)](gabriellopesmonteiro41@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gabriellopesmonteiro41@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriellopesmonteiro41@gmail.com)](gabriellopesmonteiro41@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-gabriellm1-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/gabriellm1/)](https://github.com/gabriellm1/)
 [![Leetcode Badge](https://img.shields.io/badge/-gabriellm1-F89F1B?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/gabriellm1/)](https://leetcode.com/gabriellm1/)
 
