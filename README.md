@@ -15,3 +15,10 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
+
+<div><br>
+  <a href="https://github.com/gabriellm1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellm1&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellm1&layout=compact&langs_count=7&theme=dark&hide=jupyter%20notebook"/> -->
+</div>
+  
